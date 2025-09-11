@@ -6,14 +6,14 @@ const config = {
   title: 'Technical Writing Task',
   tagline: 'Documentation site for a TW task',
   url: 'https://adgut1509.github.io',
-  baseUrl: '/TWtask/',
+  baseUrl: '/Technical-Writing-Task/',
 
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
   organizationName: 'adgut1509', // Change this if you're not Facebook
-  projectName: 'TWtask',
+  projectName: 'Technical-Writing-Task',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
