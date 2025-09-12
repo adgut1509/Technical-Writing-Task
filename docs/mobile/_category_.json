@@ -1,0 +1,10 @@
+{
+  "label": "Mobile App",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "/mobile",
+    "title": "Mobile App",
+    "description": "Payment instructions for the mobile app."
+  }
+}

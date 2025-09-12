@@ -33,18 +33,32 @@
 
 // export default sidebars;
 
-module.exports = {
-  tutorialSidebar: [
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
+const sidebars = {
+  docs: [
     {
       type: 'category',
-      label: 'Data Quality',
+      label: 'PC',
       collapsed: false,
       items: [
-        'step4',
-        'dataquality',
+        'pc/bank-transfer',
+        'pc/card',
+        'pc/blik',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Mobile App',
+      collapsed: false,
+      items: [
+        'mobile/bank-transfer',
+        'mobile/card',
+        'mobile/blik',
       ],
     },
   ],
 };
+
+module.exports = sidebars;
 
 

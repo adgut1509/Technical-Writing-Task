@@ -1,0 +1,10 @@
+{
+  "label": "PC",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "slug": "/pc",
+    "title": "PC",
+    "description": "Payment instructions for the PC version."
+  }
+}
