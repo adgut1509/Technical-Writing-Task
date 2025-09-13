@@ -51,7 +51,7 @@ const config = {
           title: 'PC',
           items: [
             { label: 'Bank transfer', to: '/docs/pc/bank-transfer' },
-            { label: 'Card',          to: '/docs/pc/card' },
+            { label: 'Payment Card',          to: '/docs/pc/card' },
             { label: 'BLIK',          to: '/docs/pc/blik' },
           ],
         },
@@ -59,7 +59,7 @@ const config = {
           title: 'Mobile App',
           items: [
             { label: 'Bank transfer', to: '/docs/mobile/bank-transfer' },
-            { label: 'Card',          to: '/docs/mobile/card' },
+            { label: 'Payment Card',          to: '/docs/mobile/card' },
             { label: 'BLIK',          to: '/docs/mobile/blik' },
           ],
         },
