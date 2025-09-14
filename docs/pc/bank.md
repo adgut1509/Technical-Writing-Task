@@ -32,14 +32,14 @@ The available banks are:
 - Nest Bank
 
 :::info
-In the list, you can also select a standard/postal transfer, which is a useful option for people who don't have a bank account or can't pay online. If you select this option and click **Buy and pay**, you will see transfer details you need to complete the transfer. You can then make the transfer at a post office.
+You can also select a standard/postal transfer, which is a useful option if you don't have a bank account or can't pay online. If you select this option and click **Buy and pay**, you will see the transfer details you need to complete the transfer. You can then make the transfer at a post office.
 :::
 
 3. In the **Summary**, click **Buy and pay**. 
 
     ![Summary: Buy and pay](<Summary - Buy and pay.png>)
 
-4. You will be redirected to your bank's website. Log in and follow the instructions to order a transfer. When you finish, you will automaticaly be logged out and redirected back to Allegro.
+4. You will be redirected to your bank's website. Log in and follow the instructions to order a transfer. When you finish, you will automatically be logged out and redirected back to Allegro.
 
     If the payment is successful, you'll see a *Thank you for your purchases!* message and an estimated delivery date.
 

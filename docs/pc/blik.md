@@ -5,7 +5,7 @@ sidebar_label: BLIK
 ---
 
 :::info
-BLIK is a Polish mobile payment system, which allows you to easily transfer money through your bank’s mobile app. To learn more about BLIK, go to [BLIK documentation](https://www.blik.com/en/first-steps-with-blik).
+BLIK is a Polish mobile payment system that allows you to instantly transfer money through your bank’s mobile app. To learn more about BLIK, go to [BLIK documentation](https://www.blik.com/en/first-steps-with-blik).
 :::
 
 After you've selected your item(s) and provided delivery information, you can pay using BLIK with or without a code.
@@ -20,7 +20,7 @@ After you've selected your item(s) and provided delivery information, you can pa
 
     ![Summary: Pay with BLIK](<Summary - Pay with BLIK.png>)
 
-3. A **BLIK payment** window will appear. Generate a six-digit BLIK code in your banking app and provide it.
+3. A **BLIK payment** window will appear. Generate a six-digit BLIK code in your banking app and enter it.
 
     ![BLIK payment with code window](<BLIK payment with code window.png>)
 

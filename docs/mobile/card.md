@@ -11,10 +11,10 @@ After you've selected your item(s) and provided delivery information, follow the
     ![Card payment option](<Card payment option.png>)
 
 :::info
-To select a different payment card or add a new one, select **Options** and follow the instructions.  
+To use a different payment card or add a new one, tap **Options** and follow the instructions.  
 :::
 
-2. In the **Summary**, click **Buy and pay**. 
+2. Tap **Buy and pay** at the bottom of the screen.
 
     ![Buy and pay](<Buy and pay.png>)
 
