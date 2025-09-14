@@ -1,6 +1,6 @@
 ---
 id: blik
-title: How to Pay with BLIK
+title: How to Pay with BLIK (PC)
 sidebar_label: BLIK
 ---
 
@@ -10,42 +10,42 @@ BLIK is a Polish mobile payment system, which allows you to easily transfer mone
 
 After you've selected your item(s) and provided delivery information, you can pay using BLIK with or without a code.
 
-## With code
+## BLIK with code
 
 1. In the **Payment** section, select **BLIK with code**.
 
-    ![BLIK with code payment option](image-10.png)
+    ![BLIK with code payment option](<BLIK with code payment option.png>)
 
 2. In the **Summary**, click **Pay with BLIK**. 
 
-    ![Summary - Pay with BLIK](image-15.png)
+    ![Summary: Pay with BLIK](<Summary - Pay with BLIK.png>)
 
-3. A **BLIK payment** window will appear. Generate a 6-digit BLIK code in your banking app and provide it.
+3. A **BLIK payment** window will appear. Generate a six-digit BLIK code in your banking app and provide it.
+
+    ![BLIK payment with code window](<BLIK payment with code window.png>)
 
 4. Click **Buy and pay**.
 
-    ![BLIK payment with code window](image-17.png)
-
 5. Confirm the payment in your banking app.
 
-    If the payment is successful, you'll see a *Thank you for your purchase(s)!* message and an estimated delivery date.
+    If the payment is successful, you'll see a *Thank you for your purchases!* message and an estimated delivery date.
 
-    ![Thank you for your purchase message](image-6.png)
+    ![Thank you for your purchases message](<Thank you for your purchases message.png>)
 
-## Without code
+## BLIK without code
 
 1. In the **Payment** section, select **BLIK without code**.
 
-    ![BLIK without code payment option](image-9.png)
+    ![BLIK without code payment option](<BLIK without code payment option.png>)
 
 2. In the **Summary**, click **Pay with BLIK**. 
 
-    ![Summary - Pay with BLIK](image-14.png)
+    ![Summary: Pay with BLIK](<Summary - Pay with BLIK.png>)
 
 3. A **BLIK payment** window will appear. Click **Buy and pay**.
 
-    ![BLIK payment without code window](image-16.png)
+    ![BLIK payment without code window](<BLIK payment without code window.png>)
 
 4. Go to your banking app and confirm the payment.
 
-    If the payment is successful, you'll see a *Thank you for your purchase(s)!* message and an estimated delivery date.
+    If the payment is successful, you'll see a *Thank you for your purchases!* message and an estimated delivery date.

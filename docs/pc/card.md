@@ -1,6 +1,6 @@
 ---
 id: card
-title: How to Pay with a Payment Card
+title: How to Pay with a Payment Card (PC)
 sidebar_label: Payment Card
 ---
 
@@ -8,7 +8,7 @@ After you've selected your item(s) and provided delivery information, follow the
 
 1. In the **Payment** section, select **Payment card**.
 
-    ![Card payment option](image.png)
+    ![Card payment option](<Card payment option.png>)
 
 :::info
 To select a different payment card or add a new one, select **Options** and follow the instructions.  
@@ -16,10 +16,10 @@ To select a different payment card or add a new one, select **Options** and foll
 
 2. In the **Summary**, click **Buy and pay**. 
 
-    ![Summary - Buy and pay](image-1.png)
+    ![Summary: Buy and pay](<Summary - Buy and pay.png>)
 
 3. Your bank will ask you for an additional verification via a text message or a mobile app code. Verify the purchase.
 
-    If the payment is successful, you'll see a *Thank you for your purchase(s)!* message and an estimated delivery date.
+    If the payment is successful, you'll see a *Thank you for your purchases!* message and an estimated delivery date.
 
-    ![Thank you for your purchase message](image-6.png)
+    ![Thank you for your purchases message](<Thank you for your purchases message.png>)
