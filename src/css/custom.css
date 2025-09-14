@@ -26,3 +26,9 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.markdown img {
+  border: 1px solid black;
+  padding: 2px;       /* optional, adds spacing inside border */
+  border-radius: 4px; /* optional, gives rounded corners */
+}

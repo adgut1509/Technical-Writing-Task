@@ -2,8 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Technical Writing Task',
-  tagline: 'Documentation site for a TW task',
+  title: 'Allegro Payment User Guide',
+  tagline: 'Technical Writing Task',
   url: 'https://adgut1509.github.io',
   baseUrl: '/Technical-Writing-Task/',
 
