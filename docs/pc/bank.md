@@ -43,4 +43,4 @@ You can also select a standard/postal transfer, which is a useful option if you 
 
     If the payment is successful, you'll see a *Thank you for your purchases!* message and an estimated delivery date.
 
-    ![Thank you for your purchases message](<Thank you for your purchases message.png>)
+    ![Thank you for your purchases message](<Thank you for your purchases message2.png>)

@@ -22,4 +22,4 @@ To use a different payment card or add a new one, click **Options** and follow t
 
     If the payment is successful, you'll see a *Thank you for your purchases!* message and an estimated delivery date.
 
-    ![Thank you for your purchases message](<Thank you for your purchases message.png>)
+    ![Thank you for your purchases message](<Thank you for your purchases message2.png>)

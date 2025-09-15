@@ -30,7 +30,7 @@ After you've selected your item(s) and provided delivery information, you can pa
 
     If the payment is successful, you'll see a *Thank you for your purchases!* message and an estimated delivery date.
 
-    ![Thank you for your purchases message](<Thank you for your purchases message.png>)
+    ![Thank you for your purchases message](<Thank you for your purchases message2.png>)
 
 ## BLIK without code
 
