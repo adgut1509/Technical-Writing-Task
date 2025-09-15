@@ -4,7 +4,7 @@ title: How to Pay with a Payment Card (Mobile App)
 sidebar_label: Payment Card
 ---
 
-After you've selected your item(s) and provided delivery information, follow these steps to complete your purchase using a card:
+After you've selected your item(s) and provided delivery information, follow these steps to complete your purchase using a payment card:
 
 1. In the **Payment** section, select **Payment card**.
 
