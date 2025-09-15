@@ -38,7 +38,7 @@ const config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Technical Writing Task',
+      title: 'Allegro Payment User Guide',
       logo: { alt: 'My Site Logo', src: 'img/logo.svg' },
       items: [
         { href: 'https://github.com/adgut1509/TWtask', label: 'GitHub', position: 'right' },
